@@ -1,0 +1,10 @@
+C:\Users\ASUS\Desktop\Elemente\CubicEquationSolver\obj\Debug\CubicEquationSolver.csprojAssemblyReference.cache
+C:\Users\ASUS\Desktop\Elemente\CubicEquationSolver\obj\Debug\CubicEquationSolver.CubicSolverForm.resources
+C:\Users\ASUS\Desktop\Elemente\CubicEquationSolver\obj\Debug\CubicEquationSolver.Properties.Resources.resources
+C:\Users\ASUS\Desktop\Elemente\CubicEquationSolver\obj\Debug\CubicEquationSolver.csproj.GenerateResource.cache
+C:\Users\ASUS\Desktop\Elemente\CubicEquationSolver\obj\Debug\CubicEquationSolver.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\Elemente\CubicEquationSolver\bin\Debug\CubicEquationSolver.exe.config
+C:\Users\ASUS\Desktop\Elemente\CubicEquationSolver\bin\Debug\CubicEquationSolver.exe
+C:\Users\ASUS\Desktop\Elemente\CubicEquationSolver\bin\Debug\CubicEquationSolver.pdb
+C:\Users\ASUS\Desktop\Elemente\CubicEquationSolver\obj\Debug\CubicEquationSolver.exe
+C:\Users\ASUS\Desktop\Elemente\CubicEquationSolver\obj\Debug\CubicEquationSolver.pdb
